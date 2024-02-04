@@ -4,5 +4,5 @@ Game notes on Future Game: https://docs.google.com/document/d/17cAELua0pq7ukGh0H
 
 Test repo access:
 Livefish: done
-Zhefed: <insert done here pls>
-Timimin: <insert done here pls>
+Zhefed: insert done here pls
+Timimin: insert done here pls
